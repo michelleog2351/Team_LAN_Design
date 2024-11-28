@@ -23,7 +23,7 @@ This is the online repository for the Integrated Infrastucture - LAN Design Assi
 
 ### Project deadline
 
-Monday 2nd of December 2024 at 23:59.
+Monday 11th of December 2024 at 23:59.
 
 ## Project Specification
 ### This is a group assignment with 4 students and is a brown/green field site. 
