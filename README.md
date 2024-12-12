@@ -1,7 +1,7 @@
 # LAN Design (Team Project)
 
 Design For A College Network - Integrated Infrastructure - 2024
-- Worth 30%
+- Worth 25%
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ This is the online repository for the Integrated Infrastucture - LAN Design Assi
 
 ### Project deadline
 
-Wednesday 11th of December 2024 at 23:59.
+Thursday 12th of December 2024 by 15:30.
 
 ## Project Specification
 ### This is a group assignment with 4 students and is a brown/green field site. 
